@@ -4,8 +4,4 @@ To-Do List App
 
 This is a simple To-Do List application built with React. It allows users to add, delete, edit and mark tasks as complete or incomplete.
 
-Technologies Used
-
-React
-React Icons
 
